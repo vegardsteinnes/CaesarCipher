@@ -1,0 +1,32 @@
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.exe
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.deps.json
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.runtimeconfig.json
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.runtimeconfig.dev.json
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\ref\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode\bin\Debug\net5.0\Caesars kode.pdb
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.csprojAssemblyReference.cache
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.AssemblyInfoInputs.cache
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.AssemblyInfo.cs
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.csproj.CoreCompileInputs.cache
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\ref\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.pdb
+D:\Google Drive\C#\Computas\Caesars kode\obj\Debug\net5.0\Caesars kode.genruntimeconfig.cache
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.exe
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.deps.json
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.runtimeconfig.json
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.runtimeconfig.dev.json
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\ref\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode 1.0\bin\Debug\net5.0\Caesars kode.pdb
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.csprojAssemblyReference.cache
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.AssemblyInfoInputs.cache
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.AssemblyInfo.cs
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.csproj.CoreCompileInputs.cache
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\ref\Caesars kode.dll
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.pdb
+D:\Google Drive\C#\Computas\Caesars kode 1.0\obj\Debug\net5.0\Caesars kode.genruntimeconfig.cache
